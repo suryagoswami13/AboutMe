@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Goswami</h1>
-<h4 align="center">I am a passionate Database Developer with over 6 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+<h4 align="center">I am a passionate Data Engineer with over 2 years of experience and 4 years of experience as a Senior SQL Developer turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud as well as on-premises SQL Server. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - 💬 LinkedIn **https://www.linkedin.com/in/surya-goswami-919941174/**
